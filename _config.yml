@@ -12,7 +12,7 @@ title                    : "Dana Golden Academic Website"
 title_separator          : "-"
 name                     : &name "Dana Golden"
 description              : &description "personal description"
-url                      : https://https://jgolden36.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://https://jgolden36.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/jgolden36/jgolden36.github.io"
 
@@ -21,7 +21,7 @@ repository               : "/jgolden36/jgolden36.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Dana Photo.jpg"
   name             : "Dana Annalise Golden"
   pronouns         : example: "she/her"  
   bio              : "Energy Economics PhD student"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=RoCy6QYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
