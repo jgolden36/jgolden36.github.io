@@ -35,35 +35,36 @@ Work experience
   * 
   * Duties included: Tagging issues
   * Supervisor: Eva Carceles-Poveda
-  
+
+
  * Summer 2015: Writing Center Tutor
   * Stony Brook Writing Center
   * Duties included: Tagging issues
-  
+
  * Summer 2015: Data Scientist Intern
   * Department of Treasury Bureau of the Fiscal Service
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Economist Intern
   * USDA Economic Research Service
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Microenomics PhD Tutor
   * Stony Brook Economics Department
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Energy Industry Analyst Student Trainee
   * Federal Energy Regulatory Commission
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Agricultural Economist
   * Federal Energy Regulatory Commission
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Peer Tutor
   * Georgia Tech Athletic Association
   * Duties included: Tagging issues
-    
+
  * Summer 2015: Financial Management Student Trainee
   * Defense Finance and Accounting Services
   * Duties included: Tagging issues
