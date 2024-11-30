@@ -18,3 +18,9 @@ Heading 2
 
 Heading 3
 ======
+
+## Lecture 1: Introduction to Machine Learning for Economists: Intro to Course, Intro to Python, Intro to Pandas
+
+Here is the introduction video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehJe_t9WGl0?si=xb-h3FxNdtQmwvAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
