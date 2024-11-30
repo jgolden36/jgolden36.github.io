@@ -24,4 +24,4 @@ Heading 3
 Here is the introductory recitation in machine learing:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ehJe_t9WGl0?si=xb-h3FxNdtQmwvAr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Intro to Course, Intro to Python, Intro to Pandas Slides](files/Week_1__Introduction__terminology__review_of_multivariable_calculus_and_stats_ (4).pdf)
+[Intro to Course, Intro to Python, Intro to Pandas Slides](/files/Week_1__Introduction__terminology__review_of_multivariable_calculus_and_stats_ (4).pdf)
