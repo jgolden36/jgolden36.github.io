@@ -58,9 +58,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/dana-golden-factor/
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://medium.com/@techconomist
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : https://www.youtube.com/channel/UCWuM8JPgT1H-pNhUEiJslaA
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
