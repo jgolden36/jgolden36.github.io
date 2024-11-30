@@ -2,11 +2,13 @@
 title: "Data Science and Machine Learning"
 collection: teaching
 type: "Reciations"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Data-Science-and-Machine-Learning
 venue: "Stony Brook University, Economics Department"
 date: 2023-07-01
 location: "Stony Brook, New York"
 ---
+
+These are recitations for my Introduction to Machine Learning for Economists alongside code and slides. My hope is to make it easier for economists to delve into machine learning topics.
 
 ## Lecture 1: Introduction to Machine Learning for Economists: Intro to Course, Intro to Python, Intro to Pandas
 
