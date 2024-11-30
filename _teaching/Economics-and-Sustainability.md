@@ -1,14 +1,14 @@
 ---
-title: "Data Science and Machine Learning"
+title: "Economics and Sustainability"
 collection: teaching
 type: "Reciations"
-permalink: /teaching/Data-Science-and-Machine-Learning
+permalink: /teaching/Economics-and-Sustainability
 venue: "Stony Brook University, Economics Department"
-date: 2023-07-01
+date: 2023-08-01
 location: "Stony Brook, New York"
 ---
 
-These are recitations for my Introduction to Machine Learning for Economists alongside code and slides. My hope is to make it easier for economists to delve into machine learning topics.
+These are my slides for Economics and Sustainability. It is an interdisciplinary course focused on the economics of sustainable systems. It provides an introduction to environmental economics at a less mathematical level and is directed at practitioners.
 
 ## Lecture 1: Introduction to Machine Learning for Economists: Intro to Course, Intro to Python, Intro to Pandas
 
