@@ -47,29 +47,29 @@ Work experience
   * 
   * Supervisor: Eva Carceles-Poveda
 
- * August 2022-Feb 2024: Writing Center Tutor
+* August 2022-Feb 2024: Writing Center Tutor
   * Stony Brook Writing Center
   * Helping students improve papers, presentations, and other creative projects
   * Providing feedback and general suggestions on writing to students at Stony Brook University
 
- * May 2023-Aug 2023: Data Scientist Intern
+* May 2023-Aug 2023: Data Scientist Intern
   * Department of Treasury Bureau of the Fiscal Service
   * Utilized USAspending API data to perform causal inference
   * Joined data from USAspending and other sources using reproducible API calls to facilitate analysis
   * Developed functions to automatically pull fiscal data to answer questions related to federal spending using python for development
   * Worked with other data scientists to develop monthly report on award spending
 
- * June 2023-July 2023: Economist Intern
+* June 2023-July 2023: Economist Intern
   * USDA Economic Research Service
   * Created visualizations related to the potato industry and usage of common pesticides and fertilizers within the industry over time and across space
   * Performed literature review related to the effects of climate change on potato crops, North American potato supply chains, and potato production within North America
 
- * Summer 2015: Microenomics PhD Tutor
+* Summer 2015: Microenomics PhD Tutor
   * Stony Brook Economics Department
   * Tutored Students for the Stony Brook economics Department in PhD-level microeconomics
   * Provided engaging lessons on microeconomic material for first-year students
 
- * Summer 2015: Energy Industry Analyst Student Trainee
+* Summer 2015: Energy Industry Analyst Student Trainee
   * Federal Energy Regulatory Commission
   * Utilized knowledge of energy markets to develop analysis of anomalies in trading
   * Built out dashboard with SQL and Rshiny combining data on natural gas and electricity markets
@@ -77,17 +77,17 @@ Work experience
   * Developed automatically-updating ARIMA forecasting model for monthly and daily electricity contracts in Python
   * Created initial PowerBI dashboard for new dataset from non-RTO West
 
- * Sep 2019-July 2021: Agricultural Economist
+* Sep 2019-July 2021: Agricultural Economist
   * USDA Economic Research Service
   * Published oil crops and season average price data products while contributing to oilseeds and wheat outlook reports and various visualizations based on the reports and data
   * Designed and implemented the state trade data product and associated database
   * Taught division-wide SQL and trainings related to machine learning and various software
 
- * Summer 2015: Peer Tutor
+* Summer 2015: Peer Tutor
   * Georgia Tech Athletic Association
   * Tutored students in a variety of mathematical and social science related disciplines to aid in building strong academic performance amongst student athletes at Georgia Tech
 
- * Summer 2015: Financial Management Student Trainee
+* Summer 2015: Financial Management Student Trainee
   * Defense Finance and Accounting Services
   * Contributed directly to the DoD goal of building and maintaining a well-documented audit trail by working with and developing tools for processing data, building and maintaining database systems, and utilizing a variety of software and systems to ensure financial and accounting standards were achieved directly and efficiently within the Departmental Reporting area
 
