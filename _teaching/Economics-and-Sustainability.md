@@ -1,7 +1,7 @@
 ---
 title: "Economics and Sustainability"
 collection: teaching
-type: "Reciations"
+type: "Undergraduate course"
 permalink: /teaching/Economics-and-Sustainability
 venue: "Stony Brook University, Economics Department"
 date: 2023-08-01
