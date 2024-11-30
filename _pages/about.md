@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Innovation at the Intersection of economics, computing, and commodity markets"
 author_profile: true
 redirect_from: 
   - /about/
