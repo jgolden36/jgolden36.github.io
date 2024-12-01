@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Innovation at the Intersection of economics, computing, and commodity markets"
+description: "Explore my research in environmental economics and data science."
 author_profile: true
 redirect_from: 
   - /about/
