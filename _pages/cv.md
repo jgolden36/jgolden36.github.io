@@ -94,24 +94,6 @@ Work experience
   * Defense Finance and Accounting Services
   * Contributed directly to the DoD goal of building and maintaining a well-documented audit trail by working with and developing tools for processing data, building and maintaining database systems, and utilizing a variety of software and systems to ensure financial and accounting standards were achieved directly and efficiently within the Departmental Reporting area
 
-Skills
-======
-* Python
-  * Pytorch
-  * Sklearn
-  * Huggingface
-  * Django
-* Tableau
-* SQL
-* R
-* Spark
-* Excel
-* Javascript
-* Scala
-* Julia
-* Matlab
-* Fortran
-
 Research Projects
 ======
   <ul>{% for post in site.publications reversed %}
@@ -149,6 +131,25 @@ Awards, Fellowships, & Grants
 * OVPR Seed Grant (with Eva Carceles-Poveda and Ria Rajiv Shah), Stony Brook University Office of Proposal Development, 2024-2025 ($40,000)
 * NSF BIAS-NRT Research Fellowship, National Science Foundation, 2023-2025, ($74,000)
 * Department of Economics Diversity Fellowship, Stony Brook University Economics, 2021-2026 ($75,000)
+
+
+Skills
+======
+* Python
+  * Pytorch
+  * Sklearn
+  * Huggingface
+  * Django
+* Tableau
+* SQL
+* R
+* Spark
+* Excel
+* Javascript
+* Scala
+* Julia
+* Matlab
+* Fortran
 
 Service and leadership
 ======
