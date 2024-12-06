@@ -1,6 +1,6 @@
 ---
-title: "Writing"
-excerpt: "Different plays and skits I have written"
+title: "Plays"
+excerpt: "Different plays I have written"
 collection: portfolio
 ---
 
@@ -37,36 +37,3 @@ The drama follows a cyberattack that goes drastically wrong the geopolitical con
 Linkedin Influencer job Interview examines the role of influencers in the modern society and the increasingly performative nature of modern life.
 
 [Linkedin Influencer job Interview Script](/files/Linkedin Influencer job interview.docx)
-
-#Skits
-
-##Night O' Skits and Songs-Fall '24
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nAQMLgMpD0?si=HEksLIKJHW4p4w-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Excellent performance by SBU Actor's Conservatory! I wrote Taco Bell Art Heist.
-
-[Taco Bell Art Heist Script](/files/Taco Bell Art Heist.docx)
-
-##Night O' Skits and Songs-Fall '23
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nAQMLgMpD0?si=H1zoyqglOYKZmgH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Excellent performance by SBU Actor's Conservatory! I wrote Dueling Impractical Jokers, Stony Brook Confessional, and Off brand Dog Food Commercial.
-
-[Dueling Impractical Jokers Script](/files/Dueling Impractical Jokers.docx)
-
-[Stony Brook Confessional Script](/files/Stony Brook Confessional.docx)
-
-[Off brand Dog Food Commercial Script](/files/Off brand Dog Food Commercial.docx)
-
-##Night O' Skits and Songs-Fall '22
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UqKonqNT2aw?si=MwgRXjNCZrIel7xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Excellent performance by SBU Actor's Conservatory! I wrote It's a Liberal Arts World and Business Bro.
-
-[It's a Liberal Arts World Script](/files/Its a Liberal Arts world.docx)
-
-[Business Bro Script](/files/Business Bro.docx)
-
