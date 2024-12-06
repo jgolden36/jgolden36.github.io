@@ -11,7 +11,7 @@ redirect_from:
 
 [Academic CV](/files/Academic_CV_Dana_Golden.pdf)
 
-[Industr](/files/Dana_Golden_s_Resume_Academic.pdf)
+[Industry Resume](/files/Dana_Golden_s_Resume_Academic.pdf)
 
 Education
 ======
