@@ -3,9 +3,6 @@ title: "Skits"
 excerpt: "Different skits I have written that have been performed."
 collection: portfolio
 ---
-
-# Skits
-
 ## Night O' Skits and Songs-Fall '24
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nAQMLgMpD0?si=HEksLIKJHW4p4w-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
