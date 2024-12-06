@@ -79,7 +79,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Works in Progress'    
   conferences:
     title: 'Conference Papers'
 
@@ -257,7 +257,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "/Research/"
       type: publications
     values:
       layout: single
@@ -275,7 +275,7 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: ""
+      path: "/Research/"
       type: talks
     values:
       layout: talk
