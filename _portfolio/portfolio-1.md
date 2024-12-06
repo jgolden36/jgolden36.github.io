@@ -12,17 +12,17 @@ Anxiety centers around a therapy session of a college student and demonstrates t
 
 [Axiety Script](/files/Anxiety.docx)
 
-## The ones who are there
+## The Ones who are There
 
 The ones who are there follows a dinner to reunite between friends and jumps back and forth between times before and after the pandemic. The play examines the joint trauma that the world suffered together during Covid, coming of age, and the role of face-to-face communication in a digital age.
 
-[The Ones who are There](/files/The ones who are there.docx)
+[The Ones who are There](/files/Theoneswhoarethere.docx)
 
 ## Derivatives Empire
 
 This dramatic work follows a commodities trading firm, Derivatives Empire through three separate acts. It starts with the founding of the company in the 1800s and the breakup of the founders. This is followed by The first act of this play takes place over several years in the late 19th century. The second act takes place in the late 1970s and early 1980s. The final act takes place in the early 2000s.
 
-[Derivatives Empire Script](/files/Derivatives Empire.docx)
+[Derivatives Empire Script](/files/DerivativesEmpire.docx)
 
 ## Worse than Stuxnet
 
@@ -34,4 +34,4 @@ The drama follows a cyberattack that goes drastically wrong the geopolitical con
 
 Linkedin Influencer job Interview examines the role of influencers in the modern society and the increasingly performative nature of modern life.
 
-[Linkedin Influencer job Interview Script](/files/Linkedin Influencer job interview.docx)
+[Linkedin Influencer job Interview Script](/files/LinkedinInfluencerjobinterview.docx)
