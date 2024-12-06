@@ -1,6 +1,6 @@
 ---
 title: "Anxiety"
-excerpt: "Short Play"
+excerpt: "Short Original Play"
 collection: portfolio
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
