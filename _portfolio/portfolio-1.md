@@ -1,6 +1,6 @@
 ---
 title: "Anxiety"
-excerpt: """Short Original Play <iframe width="560" height="315" src="https://www.youtube.com/embed/EbFLNuMhFMU?si=gcNafNFHDdq3P2dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"""
+excerpt: "Short Original Play"
 collection: portfolio
 paperurl: 'http://jgolden36.github.io/files/Anxiety.docx'
 ---
