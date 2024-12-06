@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Academic CV](/files/Academic_CV_Dana_Golden.pdf)
+
+[Industr](/files/Dana_Golden_s_Resume_Academic.pdf)
+
 Education
 ======
 * Ph.D in Economics, Stony Brook University, 2026 (expected)
@@ -44,7 +48,6 @@ Work experience
 * May 2023-December 2023: Graduate Research Assistant
   * Performed research on the impact of dividend tax progressivity on shareholder disagreement
   * Analyzed financial Compustat and WRDS data with Python and Stata to perform financial research
-  * 
   * Supervisor: Eva Carceles-Poveda
 
 * August 2022-Feb 2024: Writing Center Tutor
@@ -109,24 +112,51 @@ Skills
 * Matlab
 * Fortran
 
-Publications
+Research Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Government and Industry Publications
+======
+* Comparative Study & Networked Benchmarking of Power Electronics Architectures for HVDC OSW Energy Integration, May 2024
+* Oilseeds Outlook Report, May 2020-July 2021
+* Wheat Outlook Report, December 2020-January 2021
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Economics of Environmental and Natural Resources, Instructor, Winter 2025
+* Economics and Sustainability, Instructor, Fall 2023
+* Economics and Sustainability, Instructor, Spring 2023
+
+Teaching Assistant Work
+======
+* Data Science and Machine Learning, Teaching Assistant, Summer 2024
+* Econometrics (graduate), Teaching Assistant, Spring 2023
+* Mathematical Statistics (graduate), Teaching Assistant, Fall 2022
+* Introduction to Economics, Teaching Assistant, Fall 2021-Spring 2022
+* Philosophy of Science, Technology, and Human Values, Spring 2019
+
+Awards, Fellowships, & Grants
+======
+* OVPR Seed Grant (with Eva Carceles-Poveda and Ria Rajiv Shah), Stony Brook University Office of Proposal Development, 2024-2025 ($40,000)
+* NSF BIAS-NRT Research Fellowship, National Science Foundation, 2023-2025, ($74,000)
+* Department of Economics Diversity Fellowship, Stony Brook University Economics, 2021-2026 ($75,000)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Student Organization, Economics Senator, 2021-2025
+* Graduate Student Organization, Chair of Board of Appeals, 2022-2023
+* Economics Graduate Student Departmental Grievance Committee, Student Representative, 2022-2023
+* Graduate Student Organization, Member of Political Advocacy Committee, 2022-2023
+* Stony Brook University Game Theory Conference, Volunteer, 2024
+* AEA LGBT Mentoring Program, Mentor, 2020-2021
+* Georgia Tech and Archer high school debate teams, Debate Judge, 2017-2022
+* Pipeline Project, Mentor, 2019
