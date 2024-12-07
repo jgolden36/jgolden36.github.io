@@ -12,6 +12,12 @@ Anxiety centers around a therapy session of a college student and demonstrates t
 
 [Axiety Script](/files/Anxiety.docx)
 
+## ALICE AND BOB WORK PROJECT RAVEN
+
+This 10-minute play is an exploration of machine learning algorithms and the ethics of their usage in international conflict. The play is based on the aftermath of Project Maven at Google.
+
+[Alice and Bob Work Project Raven Script](/files/CompetitionPlay.docx)
+
 ## The Ones who are There
 
 The ones who are there follows a dinner to reunite between friends and jumps back and forth between times before and after the pandemic. The play examines the joint trauma that the world suffered together during Covid, coming of age, and the role of face-to-face communication in a digital age.
