@@ -51,8 +51,9 @@ This lecture focuses on the basics of using macroeconomics to think about the ma
 ## Lecture 7: Data in environmental Economics and Geographic Information Systems
 This lecture is split into two parts. The first focuses on utilizing data in environmnetal economics while the second focuses on geographic information systems. Example code is provided.
 
-[Data in environmental Economics and Geographic Information Systems Slides](/files/Week_6__Unsupervised_learning_large_scale_machine_learning__final_review_ (1).pdf)
+[Data in environmental Economics Slides](/files/DataInEvironment.pdf)
 
+[Geographic Information Systems Slides](/files/DataInEvironment.pdf)
 
 Part 2: Natural Resource Economics
 ======
