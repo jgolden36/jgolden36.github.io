@@ -10,7 +10,7 @@ location: "Stony Brook, New York"
 
 The course Environmental and Natural Resource Economics is broken up into two sections. The first focuses on environmental economics and looks at externalities, cost-benefit analysis, non-market valuation, and geographic information systems. The second takes on the topic of natural resource economics with a focus on energy markets and deep dives into commodity market derivatives, capacity markets, and the economics of nuclear power.
 
-[Environmental and Natural Resource Economics Syllabus](/files/Environmental_Economics_Introduction.pdf)
+[Environmental and Natural Resource Economics Syllabus](/files/ECO373_Syllabus_Winter2025.docx)
 
 Part one: Environmental Economics
 ======
@@ -93,4 +93,4 @@ We conclude our look into energy market economics by focusing on the capacity ma
 ## Lecture 7: Environmental justice (optional):
 This lecture takes a broader stance and applies a more interdisciplinary approach to consider how to think about the distributional impacts of the modern metals market. This lecture takes inspiration from the books Material World, the Elements of Power, and the War Below.
 
-[Environmental justice Slides](/files/CriticalMineralandbias.pptx)
+[Environmental justice Slides](/files/Critical_Mineral_and_bias.pptx)
