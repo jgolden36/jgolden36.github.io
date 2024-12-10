@@ -122,8 +122,9 @@ Conference Presentations:
 Government and Industry Publications
 ======
 * Comparative Study & Networked Benchmarking of Power Electronics Architectures for HVDC OSW Energy Integration, May 2024
-* Oilseeds Outlook Report, May 2020-July 2021
-* Wheat Outlook Report, December 2020-January 2021
+* Oil Crops Outlook Report, May 2020-July 2021 [Link here.](https://www.ers.usda.gov/publications/pub-details/?pubid=101604) 
+* Wheat Outlook Report, December 2020-January 2021  [Link here.](https://www.ers.usda.gov/publications/pub-details/?pubid=100226) 
+* 
 
 Teaching
 ======
@@ -141,9 +142,9 @@ Teaching Assistant Work
 
 Awards, Fellowships, & Grants
 ======
-* OVPR Seed Grant (with Eva Carceles-Poveda and Ria Rajiv Shah), Stony Brook University Office of Proposal Development, 2024-2025 ($40,000)
-* NSF BIAS-NRT Research Fellowship, National Science Foundation, 2023-2025, ($74,000)
-* Department of Economics Diversity Fellowship, Stony Brook University Economics, 2021-2026 ($75,000)
+* OVPR Seed Grant (with Eva Carceles-Poveda and Ria Rajiv Shah), Stony Brook University Office of Proposal Development, 2024-2025 ($40,000) [Link to Announcement.](https://www.stonybrook.edu/commcms/proposal-development/funding/OVPR_Seed_Grant_Program/OVPR-Seed-Grant-Winners?accordion=content-d19e1983) 
+* NSF BIAS-NRT Research Fellowship, National Science Foundation, 2023-2025, ($74,000) [Link to Announcement.](https://www.stonybrook.edu/commcms/bias-nrt/_people/trainees.php) 
+* Department of Economics Diversity Fellowship, Stony Brook University Economics, 2021-2026 ($75,000) [Link to Announcement.](https://www.stonybrook.edu/commcms/economics/graduate/_fellowshiprecipients.php) 
 
 
 Skills
