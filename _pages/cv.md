@@ -94,7 +94,7 @@ Work experience
   * Defense Finance and Accounting Services
   * Contributed directly to the DoD goal of building and maintaining a well-documented audit trail by working with and developing tools for processing data, building and maintaining database systems, and utilizing a variety of software and systems to ensure financial and accounting standards were achieved directly and efficiently within the Departmental Reporting area
 
-Research Projects
+Research Projects:
 ======
 ## Job market Paper (forthcoming):
 
