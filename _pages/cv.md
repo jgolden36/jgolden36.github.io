@@ -100,7 +100,7 @@ Research Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Presentations
+Conference Presentations:
 ======
 ## Southern Agricultural Economics Association (Irving, Texas, February 2025)
 * Commodity Markets LLM-based Futures Forecasting.
