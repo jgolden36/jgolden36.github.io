@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Academic Focus:
+Fields:
 ======
-PhD candidate in economics with expertise in energy economics, industrial organization, and machine learning.
+* Energy and Environmental Economics
+* Empirical Industrial Organization
+* Machine Learning, Computational Economics, and Artificial Intelligence
+* Commodity Market Economics
+* Finance
 
 Primary Research:
 ======
