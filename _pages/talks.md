@@ -9,7 +9,7 @@ author_profile: true
 * Commodity Markets LLM-based Futures Forecasting.
 * With Dikshya Mohanty, and Khushboo Singh.
 
-## Midwestern Macro (Richmond, Virginia, May 2024, delivered by Eva Carceles-Poveda)
+## Midwest Macro (Richmond, Virginia, May 2024, delivered by Eva Carceles-Poveda)
 * Non-Linear Dividend Taxation and Shareholder Disagreement.
 * With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel.
 
