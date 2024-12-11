@@ -12,7 +12,7 @@ Anxiety centers around a therapy session of a college student and demonstrates t
 
 [Axiety Script](/files/Anxiety.docx)
 
-## ALICE AND BOB WORK PROJECT RAVEN
+## Alice and Bob Work Project Raven
 
 This 10-minute play is an exploration of machine learning algorithms and the ethics of their usage in international conflict. The play is based on the aftermath of Project Maven at Google.
 
@@ -26,7 +26,7 @@ The ones who are there follows a dinner to reunite between friends and jumps bac
 
 ## Derivatives Empire
 
-This dramatic work follows a commodities trading firm, Derivatives Empire through three separate acts. It starts with the founding of the company in the 1800s and the breakup of the founders. This is followed by The first act of this play takes place over several years in the late 19th century. The second act takes place in the late 1970s and early 1980s. The final act takes place in the early 2000s.
+This dramatic work follows a commodities trading firm, Derivatives Empire, through three separate acts. It starts with the founding of the company in the 1800s and the breakup of the founders. This is followed by a look at the dynamics of the firm in the golden age of commodity firms in the mid-twentieth century. The play ends with an examination of the modern iteration of the firm in a financialized commodity market focused on power. The first act of this play takes place over several years in the late 19th century. The second act takes place in the late 1970s and early 1980s. The final act takes place in the early 2000s. Like the history of commodity markets, it evolves from a focus on agricultural to a look at metals and oil and finishes with a consideration of the modern heavily regulated electrical and energy market.
 
 [Derivatives Empire Script](/files/DerivativesEmpire.docx)
 
