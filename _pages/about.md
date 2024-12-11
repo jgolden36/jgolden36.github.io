@@ -16,7 +16,7 @@ Primary Research:
 ======
 * Investigating the impacts of transmission systems on generation investment in American electricity markets.
 
-Interdisciplinary Projects:
+Current Projects:
 ======
 * Transmission systems for offshore wind integration.
 * Industrial policy in the Chinese solar panel market.
