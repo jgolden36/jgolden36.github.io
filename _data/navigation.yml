@@ -13,15 +13,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Creative Work"
-    url: /CreativeWork/
         
   - title: "Data Viz"
     url: /data-viz/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Creative Work"
+    url: /CreativeWork/
     
   # - title: "Guide"
   #   url: /markdown/
