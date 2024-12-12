@@ -255,7 +255,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
       type: publications
@@ -264,7 +264,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _CreativeWork
   - scope:
       path: ""
       type: portfolio
@@ -273,9 +273,9 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Conferences
   - scope:
-      path: "/Research/"
+      path: ""
       type: talks
     values:
       layout: talk
