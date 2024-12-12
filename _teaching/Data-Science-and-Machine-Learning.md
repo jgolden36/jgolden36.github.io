@@ -9,6 +9,8 @@ location: "Stony Brook, New York"
 ---
 
 These are recitations for my Introduction to Machine Learning for Economists alongside code and slides. My hope is to make it easier for economists to delve into machine learning topics.
+[Recitation Code Repository](https://github.com/jgolden36/DSMLSummer2024)
+
 
 ## Lecture 1: Introduction to Machine Learning for Economists: Intro to Course, Intro to Python, Intro to Pandas
 
