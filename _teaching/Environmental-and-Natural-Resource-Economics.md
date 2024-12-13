@@ -18,6 +18,16 @@ Part one: Environmental Economics
 
 Here is the the first lecture on environmental economics. It covers a review of applied microeconomics, a review of basic math for economics and the important concepts that form a basis of environmental economics.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_JjvVkKUkAw?si=XyhbMl5tlLI8ZHgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VS_14-ZOyNQ?si=D6WuMz8QWb-Jq-Lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D9JySu8PJ2s?si=lFXmzasyAZYXwpKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBym7I4Aetc?si=tfIVCf9jI7bBUSck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ta-3Nl6ifw?si=W6uY1irVr7S71kW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Intro to Environmental Economics Slides](/files/Environmental_Economics_Introduction.pdf)
 
 ## Lecture 2: Externalities, public goods, and markets
