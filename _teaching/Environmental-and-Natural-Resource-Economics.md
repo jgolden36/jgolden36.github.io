@@ -104,4 +104,6 @@ We conclude our look into energy market economics by focusing on the capacity ma
 ## Lecture 7: Environmental justice (optional):
 This lecture takes a broader stance and applies a more interdisciplinary approach to consider how to think about the distributional impacts of the modern metals market. This lecture takes inspiration from the books Material World, the Elements of Power, and the War Below.
 
-[Environmental justice Slides](/files/Critical_Mineral_and_bias.pptx)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/069S1gkOiyA?si=oMA7D1wnIoV6DrWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Environmental Justice Slides](/files/Critical_Mineral_and_bias.pptx)
