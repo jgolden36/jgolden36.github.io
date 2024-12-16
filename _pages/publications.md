@@ -26,6 +26,8 @@ author_profile: true
 
 ### Commodity Markets LLM-based Futures Forecasting. (With Dikshya Mohanty and Khushboo Singh.)
 
+Commodity markets are inherently more physically-driven and information based than equities markets. The knowledge requirements in commodities has typically made these markets more reliant on text-based information than other markets are. A cottage industry exists of economists using text data to understand commodity market movements. New transformer-based architectures have revolutionized the practice of natural language processing. However, many commodities predictions trained on news sources suffer from a lack of validity due to an inability to separate fact from opinion in news reports. Our paper solves this problem by utilizing the government reports commonly published in commodity markets to train a transformer-based model on a form of text ground truth and then fine-tuning the model on news reports. The model is tested on news reports from out of the sample, and results are reported.
+
 ### The International Determinants of Shareholder Disagreement. (With Alexis Anagnostopoulos and Eva Carceles-Poveda)
 
 ### Industrial Policies in a Market with Environmental Externalities: Evidence from the Chinese Solar Panel Industry. (With Yiyi Zhou and Xiangjun Ma.)
