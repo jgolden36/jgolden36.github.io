@@ -34,10 +34,26 @@ Here is the the first lecture on environmental economics. It covers a review of 
 
 This lecture covers externalities and public goods at a mathematical level to provide the context needed to analyze market failure.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yF3ItTdt7yo?si=jIeMkFLmBc03J5V-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SeqljdLDxnk?si=KX3gFuaqw_-WmrbT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/06GPpDNyppY?si=me8Pr8QbiPeDNqIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dDDXZidXPKE?si=yddKLP-rt0xK7LWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Externalities in Environmental Econ Slides](/files/Externalities_and_Markets.pdf)
 
 ## Lecture 3: Imperfect Information and Insurance Markets
 This lecture covers imperfect information and insurance markets including discussions of adverse selection, moral hazard, and the principal agent problem. It overviews how these concepts interact with environmental economics.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQA3_QPyExk?si=SOhbFNT6jwxrK4K2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EJ7Y3sBa2Eo?si=h_YB2qKM95_dr0NW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFxITHAxrJE?si=oBtodWgySPHRzcpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seG0YOEbaKY?si=VARpXHrH7eAPaFZW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Imperfect Information and Insurance Markets Slides](/files/Imperfect_Information_and_Insurance_Markets.pdf)
 
