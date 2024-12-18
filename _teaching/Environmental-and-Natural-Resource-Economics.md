@@ -49,6 +49,8 @@ This lecture covers imperfect information and insurance markets including discus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQA3_QPyExk?si=SOhbFNT6jwxrK4K2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx1IW_hcsG0?si=lqdCl19-1koDk59S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EJ7Y3sBa2Eo?si=h_YB2qKM95_dr0NW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BFxITHAxrJE?si=oBtodWgySPHRzcpd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -61,21 +63,69 @@ This lecture covers imperfect information and insurance markets including discus
 
 This lecture focuses on cost-benefit analysis in environmental economics. Discounting, LCOE, and LACE are discussed in detail and examples are provided of how to use NREL tools to analyze the cost-benefit problem of the generator.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Q-XuGX6Ork?si=UQKpYWcJBKM2LobR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WteNvRXuqbY?si=jSKWP4Jf6VN4ZwDi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CajAyj3OGkk?si=W-NTMW1MQnhA0OB6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3sZLeBoz5Ck?si=6qhBKsruV1KeEZQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NhpX7e_-0Ko?si=LCr6pEn6gfz2j3Dv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DaoTmG_8w8c?si=cs1OMmyrDEywKSp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6hMdiWI9DZ8?si=TowvBIxIgWEL7lym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zz7r6GBwQQ8?si=5l362CWOW2OXlEiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Cost-benefit Analysis Slides](/files/Cost_Benefit_Analysis.pdf)
 
 ## Lecture 5: Non-market Valuation
 
 This lecture focuses on non-market valuation in environmental economics. Both revealed preference and stated preference methods are covered. Particular attention is given to estimation of damage functions and hedonic price equations as well as discrete choice modelling for non-market valuation.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJVYDJEB9X4?si=EBWxeo3YbYoHnC6B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xwKhAQvaTU?si=RKD3impAuuIgsjW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5aBq6-S0kM?si=HdbNoYa24KKkR7J-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Non-market Valuation Slides](/files/Non_market_Valuation.pdf)
 
 ## Lecture 6: Environmental Macroeconomics
 This lecture focuses on the basics of using macroeconomics to think about the macroeconomic implications of climate change. Green GDP is covered at a high level. The Solow-Swan growth model with natural resources and the Green Solow Model are discussed followed by a broad discussion of the environmental Kuznets Curve. Next, I get into Integrated Assessment Models with the example of DICE. Then, I discuss computational general equilibrium frameworks including GTAP and GCAM. I finish by talking about ESG investing.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zbsgv9RlRNs?si=L1crcILiy2cB2GU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lej5STzfnOY?si=0by4kKIvK22OPTM3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ivQsAcTwnwI?si=hUTT6eN6-QtU3GSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LtZTxK65e3c?si=tyB-cfy-vvpS6Ds4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tqv6mBg3NqM?si=V1IsL4RA83ZrX4S-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Environmental Macroeconomics Slides](/files/Climate_Change_and_Macroeconomics.pdf)
 
 ## Lecture 7: Data in environmental Economics and Geographic Information Systems
 This lecture is split into two parts. The first focuses on utilizing data in environmnetal economics while the second focuses on geographic information systems. Example code is provided.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yo-9bLe5xVU?si=zyqckPunoK9VdVr5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DdMW3_wro5k?si=WHFtlRZoQilnIKyh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-al7KDxswE?si=TXCr90A8ztolwMbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAq8yxf0bkc?si=9nZin3a-BnGQG8yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePLO0gTuPKM?si=4qY4cNE-DPkwe-o7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHu_HyJbbzw?si=yDQcRO_OkKkbKmj3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b9RoLaBy_F4?si=J_gYTVe_qpKZJdMO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jaY0f-jBrsw?si=AT58rpfx0LEv-g9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Data in environmental Economics Slides](/files/Environmental_Economics_Data_and_Analysis.pdf)
 
@@ -87,16 +137,52 @@ Part 2: Natural Resource Economics
 
 Here is an introduction to commodity markets. The lecture starts with a broad overview of commodity markets and current issues. This is followed by a discussion of commodity market supply models including the workhorse Hotelling model of natural resource extraction, the Hubbert's Peak model of mineral extraction, and the recent application of industry cost curves to commodities market supply. The lecture concludes with a discussion of commodity market demand including an overview of Nerlove's Partial Adjustment model and how to explain the commodity supercycle within a neoclassical framework.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuG_VmgWW34?si=x-FjWDbUfP0bT1KK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kxwiaMde1oU?si=CxxTHhU3CnWf4xL3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAlozwJ3alI?si=39pU0RTO11FKw6CV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIbS2jY6jZM?si=E6B2L0c-aBZrsfxO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Commodity Markets Slides](/files/Economics_of_Commodities_Markets.pdf)
 
 ## Lecture 2: Commodity Market Derivatives
 
 This lecture continues from the previous lecture with a focus on the fundementals of commodity market derivatives. Backwardization and contago are discussed as well as the Keynes-Hicks Theory of Hedging Pressure and the Working-Kaldor Theory of Storage. This is followed by a look at asset pricing in commodity markets with an introduction to the Binomial Asset Pricing Model, Black-Scholes, and models of price discovery. Valuation and portfolio choice are discussed concluding with a look at market microstructure and regulation of futures markets.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzW7Sdp8bCY?si=6Ala3ORrPW8MQBxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OzW7Sdp8bCY?si=THG3q3DhfFj2YyCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d9UKMyCQT9w?si=S9SUYnmLimbGxgYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bUr-5rJGkHg?si=8DVWluxzv3OPKnT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0-_A8XM9UQ8?si=qCes3MivviIRXct0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JDpja6mh7i4?si=9JpvzthNiSw6131C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yx9tHEHReeA?si=RPI0J21OxKW0byzr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f77KSIvDrgs?si=5ueJjQuxB2r7A5jr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OruUZdnLFzk?si=sD3PlO0cQCwWIpYJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Commodity Market Derivatives Slides](/files/Commodity_Market_Derivatives.pdf)
 
 ## Lecture 3: Electricity Markets
 This lecture provides a basic introduction the economics of electricity markets with an in-depth discussion of generation and transmission. LCOE, capacity factor, congestion, and the optimal dispatch problem are considered.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TRbOZqxlZ3o?si=mKPht3RhJA2xoE-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68ZP10uvEME?si=Uf8T2fZVc94JD7Y1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UiRhcsqxyXI?si=nocg9ZtqS8kCSaki" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/75CeqUadKM4?si=INzUickqyGnyeq6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eDpzx7ssTBo?si=eRKh8QPxcrKkcAVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Electricity Markets Slides](/files/Electricity_Markets.pdf)
 
@@ -104,11 +190,27 @@ This lecture provides a basic introduction the economics of electricity markets 
 
 This lecture covers bidding in electricity markets and the basics of participant strategy in day-ahead, real-time, and ancillary markets. The impacts of renewable energy and energy storage systems on market bidding is considered. The class concludes with a discussion of derviatives in the electricity market including Incs, Decs, UTCs, and FTRs. Heavy inspiration for this section comes from Energy Storage for Power Planning and Operation by Zechun Hu
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUX1OMiveTA?si=t_gfljOZ-IDdiqZC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BiNSJ2c8HPc?si=HdAQ-DkWIN5q6zmS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/maNNfmZuvv0?si=bxVvZzP3Pvx7FJuj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PmBD-6amVEg?si=pN1NuJqrjWNuIJYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHk4UkfQSZk?si=V9551bk9S7uLw-wu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Bidding in Electricity Markets Slides](/files/Bidding_in_Electricity_Markets.pdf)
 
 ## Lecture 5: Economics of Nuclear Power
 
 This lecture looks at the economics of nuclear power with an overview of the American nuclear energy industry, LCOE calculations for nuclear, capital recovery factors, Nth of a Kind Models and nuclear portfolios. This lecture is based on the book Economics of Nuclear Power by Geoffrey Rothwell.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y2LORBXC_L8?si=K5RX0Ui1J-9I7pwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsJvO-tMnHU?si=JOwYwO4BddrRlm-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HsJvO-tMnHU?si=JOwYwO4BddrRlm-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Economics of Nuclear Power Slides](/files/Economics_of_Nuclear_Power.pdf)
 
