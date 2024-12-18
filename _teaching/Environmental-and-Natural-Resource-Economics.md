@@ -217,6 +217,22 @@ This lecture looks at the economics of nuclear power with an overview of the Ame
 ## Lecture 6: Capacity Markets
 We conclude our look into energy market economics by focusing on the capacity market. I delve into the missing money problem and why reliability poses an issue in electricity markets. I then discuss the practical issues of capacity markets, market equilibrium, and market design. I end with a look at ERCOT's alternative to capacity markets through the energy-only market and scarcity pricing. Cost of new entry, value of lost load, offer caps, and minimum offer price rules are all discussed. This lecture is based on the book Electricity Capacity Markets by Todd S. Aagaard and Andrew N. Kleit.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vkt1rxazvKw?si=FEYmIck2XLDoGxIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/elJPOGXF79c?si=tet7J3Xcv_H1z6Qp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jwFXtBbI1U?si=R3We2JBaGkTnRQnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OU-Kgnias1k?si=ASQfGREqUY_2pbq6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Uf3s5E6FCQ?si=vZYg0BAi9oRU2VPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H974LsbnUbU?si=Wz45GY2YOnBlVO7v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sAXjoxBuWY?si=KAxBJ9HMkln5Hhzz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ALqJETzw_CI?si=WrTWKFKvL7S0cb-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Capacity Markets Slides](/files/Capacity_Markets.pdf)
 
 ## Lecture 7: Environmental justice (optional):
