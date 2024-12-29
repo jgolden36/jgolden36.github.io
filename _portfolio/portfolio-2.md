@@ -5,7 +5,7 @@ collection: portfolio
 ---
 ## Night O' Skits and Songs-Fall '24
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1nAQMLgMpD0?si=HEksLIKJHW4p4w-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ayF6b17YxLs?si=7c5YnFgLiJaMDOhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Excellent performance by SBU Actor's Conservatory! I wrote Taco Bell Art Heist.
 
