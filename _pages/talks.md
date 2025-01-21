@@ -9,6 +9,11 @@ author_profile: true
 * Commodity Markets LLM-based Futures Forecasting.
 * With Dikshya Mohanty, and Khushboo Singh.
 
+## BRIDGES Poster Conference (Stony Brook, New York, January 2025, posters)
+* Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets  [Link Here](/files/DissertationPoster.pdf)
+* Offshore Horizons: HVDC Wind Farms - Exploring Techno-Economic Dimensions. (With Deepi Singh, Gaurav Bhansali, Ali Anwar, Shreepooja Singh, Fang Luo, and Yiyi Zhou.) [Link Here](/files/HVDCPoster.pdf)
+* Commodity Markets LLM-based Futures Forecasting. (With Dikshya Mohanty, and Khushboo Singh.) [Link Here](/files/CommodityPoster.pdf)
+
 ## Midwest Macro (Richmond, Virginia, May 2024, delivered by Eva Carceles-Poveda)
 * Non-Linear Dividend Taxation and Shareholder Disagreement.
 * With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel.
