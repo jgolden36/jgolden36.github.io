@@ -45,7 +45,6 @@ Research Projects:
 ### Offshore Horizons: HVDC Wind Farms - Exploring Techno-Economic Dimensions. (With Deepi Singh, Gaurav Bhansali, Ali Anwar, Shreepooja Singh, Fang Luo, and Yiyi Zhou. Submitted at IEEE Access.)
 
 * Abstract: High Voltage Direct Current (HVDC) technology is a cornerstone of efficient Offshore Wind Farm (OWF) power transmission. This review examines HVDC OWF integration through four interlinked dimensions: economic considerations, connection topologies, converter designs, and technical modeling. It begins with an in-depth economic analysis, evaluating cost-effectiveness, reliability, and market dynamics, focusing on investment, operational costs, and lifecycle expenses. Building on this foundation, the review explores various collection and transmission architectures, highlighting their technical trade-offs, and evaluates power converter designs for efficiency, reliability, and offshore adaptability. Finally, advanced modeling and simulation techniques are reviewed to optimize system performance, enhance reliability, and balance computational efficiency. Throughout each of the four sections, economic and technical constraints are considered together. This helps to improve understanding of how systems can be designed in a way that meets the constraints of both fields and to improve feasibility on both dimensions. Together, these insights provide a holistic framework for sustainable and economically viable offshore wind energy integration.
-* [Working Paper](/files/OffshoreWind.pdf)
 
 ## Works in Progress:
 
@@ -136,7 +135,12 @@ Conference Presentations:
 * Commodity Markets LLM-based Futures Forecasting.
 * With Dikshya Mohanty, and Khushboo Singh.
 
-## Midwestern Macro (Richmond, Virginia, May 2024, delivered by Eva Carceles-Poveda)
+## BRIDGES Poster Conference (Stony Brook, New York, January 2025, posters)
+* Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets  [Link Here](/files/DissertationPoster.pdf)
+* Offshore Horizons: HVDC Wind Farms - Exploring Techno-Economic Dimensions. (With Deepi Singh, Gaurav Bhansali, Ali Anwar, Shreepooja Singh, Fang Luo, and Yiyi Zhou.) [Link Here](/files/HVDCPoster.pdf)
+* Commodity Markets LLM-based Futures Forecasting. (With Dikshya Mohanty, and Khushboo Singh.) [Link Here](/files/CommodityPoster.pdf)
+
+## Midwest Macro (Richmond, Virginia, May 2024, delivered by Eva Carceles-Poveda)
 * Non-Linear Dividend Taxation and Shareholder Disagreement.
 * With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel.
 
