@@ -5,6 +5,10 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+## Society of Economic Dynamics (Copenhagen, Denmark, June 2025, delivered by Eva Carceles-Poveda)
+* Non-Linear Dividend Taxation and Shareholder Disagreement.
+* With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel.
+  
 ## Southern Agricultural Economics Association (Irving, Texas, February 2025)
 * Commodity Markets LLM-based Futures Forecasting.
 * With Dikshya Mohanty, and Khushboo Singh.
