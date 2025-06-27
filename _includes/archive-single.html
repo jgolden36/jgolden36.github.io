@@ -38,8 +38,30 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+        {% assign month_num = post.date | date: "%m" | plus: 0 %}
+        
+        {% if month_num == 12 or month_num == 1 %}
+          {% assign semester = "Winter" %}
+        {% elsif month_num >= 2 and month_num <= 5 %}
+          {% assign semester = "Spring" %}
+        {% elsif month_num >= 6 and month_num <= 8 %}
+          {% assign semester = "Summer" %}
+        {% else %}
+          {% assign semester = "Fall" %}
+        {% endif %}
+        
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ semester }} Semester, {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% elsif post.collection == 'publications' %}
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% elsif post.date %}
+          <p class="page__date">
+            <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
+            <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
+              {{ semester }} Semester, {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+            </time>
+          </p>
+        {% endif %}
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
