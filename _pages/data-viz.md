@@ -7,4 +7,4 @@ redirect_from:
   - /data-viz
 ---
 Here is a dashboard on job search in the United States:
-![Job Search Dashboard](https://github.com/your-username/your-repo/blob/main/files/Job%20Search%20Dashboard.png?raw=true)
+![Job Search Dashboard](https://github.com/jgolden36/jgolden36.github.io/blob/master/files/Job%20Search%20Dashboard.png)
