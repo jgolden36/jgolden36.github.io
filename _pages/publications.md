@@ -21,15 +21,23 @@ author_profile: true
 
 ### Non Linear Dividend Taxation and Shareholder Disagreement. (With Alexis Anagnostopoulos, Eva Carceles-Poveda, and Gabriel Mihalachel)
 
-### Optimal Sizing and Bidding Strategy for Colocated REG-ESS in the Presence of Contracts for Differences. (With Deepi Singh and Shreepooja Singh)
+In 2020, close to 50% of dividend income in the US was subject to a different marginal tax rate than the top brackets marginal rate. The tax wedge associated with this differential dividend taxation has varied significantly over time since 1983. An unintended side-e¤ect of differential dividend taxation is that it leads to disagreement among shareholders over the level of investment that the firm should undertake. We construct shareholder disagreement measures based on ISS data and nd more disagreement on investment decisions and financial policy decisions relative to other issues (e.g. director elections). Motivated by those observations, we construct a heterogeneous agent, general equilibrium model and show that differential dividend taxation generates disagreement amongst share-holders regarding rm decisions. We demonstrate how to resolve the dis-agreement through voting while maintaing price-taking behavior in the stock market and assuming price conjectures that support competitive, forward-looking investment preferences. Over time the median share-holder changes endogenously, due to exogenous shocks and endogenous capital dynamics. This leads to added fluctuations in capital, increasing the volatility of investment and stock prices.
+
+### AI Efficiency and United States Power Quality and Emissions. (With Aruna Balasubramanian and Niranjan Balasubramanian)
+
+Data centers have proven a major source of load growth throughout the 21st century. Artificial Intelligence has We analyze the impacts of improvements in artificial intelligence efficiency on power quality and availability in the United States. We further examine the effects of data center power consumption on emissions in the presence of mitigating power procurement policies such as Power Purchase Agreements (PPAs) and Renewable Energy Certificates (RECs).
 
 ### Commodity Markets LLM-based Futures Forecasting. (With Dikshya Mohanty and Khushboo Singh.)
 
 Commodity markets are inherently more physically-driven and information based than equities markets. The knowledge requirements in commodities has typically made these markets more reliant on text-based information than other markets are. A cottage industry exists of economists using text data to understand commodity market movements. New transformer-based architectures have revolutionized the practice of natural language processing. However, many commodities predictions trained on news sources suffer from a lack of validity due to an inability to separate fact from opinion in news reports. Our paper solves this problem by utilizing the government reports commonly published in commodity markets to train a transformer-based model on a form of text ground truth and then fine-tuning the model on news reports. The model is tested on news reports from out of the sample, and results are reported.
 
-### The International Determinants of Shareholder Disagreement. (With Alexis Anagnostopoulos and Eva Carceles-Poveda)
-
 ### Industrial Policies in a Market with Environmental Externalities: Evidence from the Chinese Solar Panel Industry. (With Yiyi Zhou and Xiangjun Ma.)
+
+Monocrystalline silicon (c-Si) technology has dominated in the Solar Photovoltaics (PV) manufacturing and the production costs have declined significantly over the past decade. This study investigates the role of learning-by-doing (LBD) in driving this cost reduction and forming the technological pathway of the industry, and its interaction with input price and government subsidy policies.
+
+### Taxation with Debt Default. (With Eva Carceles-Poveda and Xavier Mateos-Planas.)
+
+### The International Determinants of Shareholder Disagreement. (With Alexis Anagnostopoulos and Eva Carceles-Poveda)
 
 
 
