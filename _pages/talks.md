@@ -5,6 +5,9 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+## Missouri Economic Association (Kansas City, Missouri, October 2025)
+* Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets
+
 ## Society of Economic Dynamics (Copenhagen, Denmark, June 2025, delivered by Eva Carceles-Poveda)
 * Non-Linear Dividend Taxation and Shareholder Disagreement.
 * With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel.
