@@ -5,6 +5,9 @@ permalink: /Conferences/
 author_profile: true
 ---
 
+## New York State Economics Association (Rochester, New York, November 2025)
+* Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets
+
 ## Missouri Economic Association (Kansas City, Missouri, October 2025)
 * Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets
 
