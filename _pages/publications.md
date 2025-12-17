@@ -37,6 +37,8 @@ author_profile: true
 
 ### Taxation with Debt Default. (With Eva Carceles-Poveda and Xavier Mateos-Planas.)
 
+### Integrating biophysical and economic models to assess U.S. agricultural resilience
+
 ### The International Determinants of Shareholder Disagreement. (With Alexis Anagnostopoulos and Eva Carceles-Poveda)
 
 
