@@ -37,7 +37,9 @@ author_profile: true
 
 ### Taxation with Debt Default. (With Eva Carceles-Poveda and Xavier Mateos-Planas.)
 
-### Integrating biophysical and economic models to assess U.S. agricultural resilience
+### Integrating Biophysical and Economic Models to Assess U.S. Agricultural Resilience.
+
+Agricultural supply chains are vulnerable to disruptions across economic and biophysical systems. We develop an AI-powered tool that integrates economic models (GTAP, VAR) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through natural language queries.
 
 ### The International Determinants of Shareholder Disagreement. (With Alexis Anagnostopoulos and Eva Carceles-Poveda)
 
