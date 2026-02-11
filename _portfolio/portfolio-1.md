@@ -12,11 +12,13 @@ Anxiety centers around a therapy session of a college student and demonstrates t
 
 [Axiety Script](/files/Anxiety.docx)
 
+<!-- 
 ## Alice and Bob Work Project Raven
 
 This 10-minute play is an exploration of machine learning algorithms and the ethics of their usage in international conflict. The play is based on the aftermath of Project Maven at Google.
 
 [Alice and Bob Work Project Raven Script](/files/CompetitionPlay.docx)
+-->
 
 ## The Ones who are There
 
