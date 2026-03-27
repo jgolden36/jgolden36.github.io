@@ -39,8 +39,10 @@ redirect_from:
   </div>
   <div class="cv-entry__org">Stony Brook University</div>
   <div class="cv-entry__detail">
-    Advisors: Yiyi Zhou and Steven Stern<br>
-    Certificate in Artificial Intelligence
+    <ul>
+      <li><strong>Advisors:</strong> Yiyi Zhou and Steven Stern</li>
+      <li><strong>Certificate</strong> in Artificial Intelligence</li>
+    </ul>
   </div>
 </div>
 
@@ -50,7 +52,11 @@ redirect_from:
     <span class="cv-entry__date">2022</span>
   </div>
   <div class="cv-entry__org">Georgia Institute of Technology</div>
-  <div class="cv-entry__detail">Concentration in Machine Learning</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li><strong>Concentration:</strong> Machine Learning</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -209,7 +215,12 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">2025--2026</span>
   </div>
   <div class="cv-entry__org">Super-Cascode for High Voltage MMC Modules Project, Sandia National Labs</div>
-  <div class="cv-entry__detail">Market analysis for high-voltage power electronics; silicon-carbide semiconductor supply chain reports</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Conducted <strong>market analysis</strong> for high-voltage power electronics</li>
+      <li>Produced <strong>silicon-carbide semiconductor</strong> supply chain reports</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -218,7 +229,12 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">2025--2026</span>
   </div>
   <div class="cv-entry__org">Food and Resource Economics, University of Florida</div>
-  <div class="cv-entry__detail">Developing AI tools for macroeconomic analysis using GTAP; analyzing data center impacts on rural electricity/water</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Developing <strong>AI tools</strong> for macroeconomic analysis using <strong>GTAP</strong></li>
+      <li>Analyzing <strong>data center impacts</strong> on rural electricity and water systems</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -227,7 +243,13 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">2023--2026</span>
   </div>
   <div class="cv-entry__org">BIAS-NRT: Detecting and Addressing Bias in Data, Humans, and Institutions</div>
-  <div class="cv-entry__detail">Fellowship for bias detection in data/institutions; LLM commodity forecasting. PhD coursework: AI, NLP, computer vision, databases</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Fellowship for <strong>bias detection</strong> in data and institutions</li>
+      <li><strong>LLM-based commodity forecasting</strong> research</li>
+      <li>PhD coursework in <strong>AI, NLP, computer vision</strong>, and databases</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -235,8 +257,14 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__title">Graduate Research Assistant</span>
     <span class="cv-entry__date">Summer 2023--May 2024</span>
   </div>
-  <div class="cv-entry__org">Spellman High Voltage Power Electronics Lab &middot; Supervisors: Fang Luo and Yiyi Zhou</div>
-  <div class="cv-entry__detail">Developed data-driven tools to study impact of HVDC on electricity prices and consumer welfare in New York area. Interdisciplinary research on econo-technical facets of offshore wind</div>
+  <div class="cv-entry__org">Spellman High Voltage Power Electronics Lab</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Developed <strong>data-driven tools</strong> to study impact of HVDC on electricity prices and consumer welfare in New York area</li>
+      <li>Interdisciplinary research on <strong>econo-technical facets of offshore wind</strong></li>
+      <li><strong>Supervisors:</strong> Fang Luo and Yiyi Zhou</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -245,7 +273,12 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">2023</span>
   </div>
   <div class="cv-entry__org">Eva Carceles-Poveda, Stony Brook University</div>
-  <div class="cv-entry__detail">Research on the impact of dividend tax progressivity on shareholder disagreement. Analyzed Compustat and WRDS data with Python and Stata</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Research on the impact of <strong>dividend tax progressivity</strong> on shareholder disagreement</li>
+      <li>Analyzed <strong>Compustat and WRDS</strong> data with Python and Stata</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -254,7 +287,13 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">May--Aug 2023</span>
   </div>
   <div class="cv-entry__org">Department of Treasury, Bureau of the Fiscal Service</div>
-  <div class="cv-entry__detail">Causal inference on fiscal data (electricity markets, rural broadband) using USAspending API. Developed Python automation for federal spending data; co-authored monthly stakeholder reports</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li><strong>Causal inference</strong> on fiscal data (electricity markets, rural broadband) using <strong>USAspending API</strong></li>
+      <li>Developed <strong>Python automation</strong> for federal spending data</li>
+      <li>Co-authored monthly <strong>stakeholder reports</strong></li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -263,7 +302,11 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">June--July 2023</span>
   </div>
   <div class="cv-entry__org">USDA Economic Research Service</div>
-  <div class="cv-entry__detail">Created visualizations related to the potato industry and usage of common pesticides and fertilizers</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Created <strong>data visualizations</strong> related to the potato industry and usage of common pesticides and fertilizers</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -280,7 +323,13 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">Summer 2022</span>
   </div>
   <div class="cv-entry__org">Federal Energy Regulatory Commission</div>
-  <div class="cv-entry__detail">Built R Shiny dashboard for natural gas/electricity market anomaly detection. Implemented ML algorithms (isolation forest, PCA, SVM, decision trees) for market surveillance. Developed auto-updating ARIMA forecasting for electricity contracts</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Built <strong>R Shiny dashboard</strong> for natural gas/electricity market anomaly detection</li>
+      <li>Implemented <strong>ML algorithms</strong> (isolation forest, PCA, SVM, decision trees) for market surveillance</li>
+      <li>Developed auto-updating <strong>ARIMA forecasting</strong> for electricity contracts</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -289,7 +338,13 @@ Renewable resources are essential for energy transition, but unequal geographic 
     <span class="cv-entry__date">Sep 2019--July 2021</span>
   </div>
   <div class="cv-entry__org">USDA Economic Research Service</div>
-  <div class="cv-entry__detail">Published oil crops and season average price data; contributed to WASDE and oilseeds/wheat outlook reports. Designed and implemented state trade data product and associated database. Led division-wide SQL and machine learning trainings</div>
+  <div class="cv-entry__detail">
+    <ul>
+      <li>Published <strong>oil crops and season average price</strong> data; contributed to <strong>WASDE</strong> and oilseeds/wheat outlook reports</li>
+      <li>Designed and implemented <strong>state trade data product</strong> and associated database</li>
+      <li>Led division-wide <strong>SQL and machine learning</strong> trainings</li>
+    </ul>
+  </div>
 </div>
 
 <div class="cv-entry">
@@ -333,56 +388,76 @@ Renewable resources are essential for energy transition, but unequal geographic 
 ## Conference Presentations
 
 <div class="cv-conference">
-  <div class="cv-conference__venue">International Industrial Organization Conference (IIOC), Rising Stars Session, 2026</div>
-  <div class="cv-conference__talk">Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</div>
+  <div class="cv-conference__venue">International Industrial Organization Conference (IIOC) &middot; <em>Rising Stars Session</em>, 2026</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</strong></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Midwest Economics Association, 2026</div>
-  <div class="cv-conference__talk">Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</strong></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Missouri Valley Economics Association, 2025</div>
-  <div class="cv-conference__talk">Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</strong></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Society of Economic Dynamics &middot; Copenhagen, Denmark, June 2025</div>
-  <div class="cv-conference__talk">Non-Linear Dividend Taxation and Shareholder Disagreement.</div>
-  <div class="cv-conference__coauthors">With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel. Delivered by Eva Carceles-Poveda.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Non-Linear Dividend Taxation and Shareholder Disagreement.</strong><br>
+    <span class="cv-conference__coauthors">With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel. <em>Delivered by Eva Carceles-Poveda.</em></span></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Southern Agricultural Economics Association &middot; Irving, Texas, February 2025</div>
-  <div class="cv-conference__talk">Commodity Markets LLM-based Futures Forecasting.</div>
-  <div class="cv-conference__coauthors">With Dikshya Mohanty and Khushboo Singh.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Commodity Markets LLM-based Futures Forecasting.</strong><br>
+    <span class="cv-conference__coauthors">With Dikshya Mohanty and Khushboo Singh.</span></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">BRIDGES Poster Conference &middot; Stony Brook, New York, January 2025</div>
-  <div class="cv-conference__talk">Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets. <a href="/files/DissertationPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></div>
-  <div class="cv-conference__talk">Offshore Horizons: HVDC Wind Farms -- Exploring Techno-Economic Dimensions. <a href="/files/HVDCPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></div>
-  <div class="cv-conference__talk">Commodity Markets LLM-based Futures Forecasting. <a href="/files/CommodityPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></div>
+  <ul class="cv-conference__talks">
+    <li><strong>Investment and the Transfer of Power: Dynamic Effects of Transmission in Electricity Markets.</strong> <a href="/files/DissertationPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></li>
+    <li><strong>Offshore Horizons: HVDC Wind Farms -- Exploring Techno-Economic Dimensions.</strong> <a href="/files/HVDCPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a><br>
+    <span class="cv-conference__coauthors">With Deepi Singh, Gaurav Bhansali, Ali Anwar, Shreepooja Singh, Fang Luo, and Yiyi Zhou.</span></li>
+    <li><strong>Commodity Markets LLM-based Futures Forecasting.</strong> <a href="/files/CommodityPoster.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a><br>
+    <span class="cv-conference__coauthors">With Dikshya Mohanty and Khushboo Singh.</span></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Midwest Macro &middot; Richmond, Virginia, May 2024</div>
-  <div class="cv-conference__talk">Non-Linear Dividend Taxation and Shareholder Disagreement.</div>
-  <div class="cv-conference__coauthors">With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel. Delivered by Eva Carceles-Poveda.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Non-Linear Dividend Taxation and Shareholder Disagreement.</strong><br>
+    <span class="cv-conference__coauthors">With Eva Carceles-Poveda, Alexis Anagnostopoulos, and Gabriel Mihalachel. <em>Delivered by Eva Carceles-Poveda.</em></span></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Economics and Computing &middot; New Haven, Connecticut, July 2024</div>
-  <div class="cv-conference__talk">Transformers but not the Kind You're Thinking of: Commodity Market Forecasting using Natural Language Processing. (Poster)</div>
-  <div class="cv-conference__coauthors">With Dikshya Mohanty and Khushboo Singh.</div>
+  <ul class="cv-conference__talks">
+    <li><strong>Transformers but not the Kind You're Thinking of: Commodity Market Forecasting using Natural Language Processing.</strong> <em>(Poster)</em><br>
+    <span class="cv-conference__coauthors">With Dikshya Mohanty and Khushboo Singh.</span></li>
+  </ul>
 </div>
 
 <div class="cv-conference">
   <div class="cv-conference__venue">Agricultural and Applied Economics Association &middot; Kansas City, Missouri, July 2020</div>
-  <div class="cv-conference__talk">Can an AI figure out whether an AI can take my job? Structural Blueprint for AI-generated Academic Papers in Economics. <a href="https://ageconsearch.umn.edu/record/304195?ln=en&v=pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Paper</a></div>
-  <div class="cv-conference__talk">Solving the Basis Aggregation Problem. <a href="https://ageconsearch.umn.edu/record/304196/files/17870.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></div>
-  <div class="cv-conference__talk">Agricultural basis from a game theoretic perspective. <a href="https://econpapers.repec.org/paper/agsaaea20/304194.htm" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></div>
+  <ul class="cv-conference__talks">
+    <li><strong>Can an AI figure out whether an AI can take my job? Structural Blueprint for AI-generated Academic Papers in Economics.</strong> <a href="https://ageconsearch.umn.edu/record/304195?ln=en&v=pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Paper</a></li>
+    <li><strong>Solving the Basis Aggregation Problem.</strong> <a href="https://ageconsearch.umn.edu/record/304196/files/17870.pdf" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></li>
+    <li><strong>Agricultural basis from a game theoretic perspective.</strong> <a href="https://econpapers.repec.org/paper/agsaaea20/304194.htm" class="btn-doc btn-doc--outline" style="padding: 0.2em 0.6em; font-size: 0.85em;">Poster</a></li>
+  </ul>
 </div>
 
 </div>

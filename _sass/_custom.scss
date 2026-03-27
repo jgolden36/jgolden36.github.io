@@ -323,6 +323,22 @@ $accent-highlight: #d4efdf;
     margin: 0 0 0.3em;
   }
 
+  &__talks {
+    margin: 0.3em 0 0;
+    padding-left: 1.2em;
+
+    li {
+      font-size: 0.9em;
+      color: $dark-gray;
+      line-height: 1.5;
+      margin-bottom: 0.4em;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
   &__talk {
     font-size: 0.9em;
     color: $dark-gray;
