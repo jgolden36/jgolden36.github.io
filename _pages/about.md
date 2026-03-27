@@ -30,8 +30,8 @@ I am a PhD candidate in Economics at Stony Brook University specializing in **en
 Renewable resources are essential for the energy transition, but unequal geographic distribution limits nationwide adoption. I develop and estimate a dynamic structural model of generator behavior -- combining a short-run optimal dispatch problem with a long-run capacity investment game -- using data from ISOs in the Eastern Interconnection and ERCOT (2018--2023). Upgrading interzonal transmission to modern HVDC standards would reduce wholesale prices by **6%**, generating **$4 billion in annual welfare gains**. Major transmission projects like the Grain Belt Express increase solar and wind adoption by over **10% by 2050**. Transmission and investment subsidies (IRA, Bipartisan Infrastructure Law) are complements in accelerating the clean energy transition.
 
 <div class="jmp-links">
-  <a href="/files/paper1.pdf" class="btn-doc btn-doc--primary">Read the Paper</a>
-  <a href="/files/slides1.pdf" class="btn-doc btn-doc--outline">View Slides</a>
+  <a href="/files/JMP (11).pdf" class="btn-doc btn-doc--primary">Read the Paper</a>
+  <a href="/files/JMP_Slides.pdf" class="btn-doc btn-doc--outline">View Slides</a>
 </div>
 
 </div>
@@ -57,8 +57,8 @@ Renewable resources are essential for the energy transition, but unequal geograp
 <div class="quick-links">
   <a href="/files/Academic_CV_Dana_Golden.pdf" class="btn-doc btn-doc--primary">Academic CV</a>
   <a href="/files/Dana_Golden_s_Resume_Academic.pdf" class="btn-doc btn-doc--outline">Industry Resume</a>
-  <a href="/files/paper1.pdf" class="btn-doc btn-doc--outline">Job Market Paper</a>
-  <a href="/files/slides1.pdf" class="btn-doc btn-doc--outline">JMP Slides</a>
+  <a href="/files/JMP (11).pdf" class="btn-doc btn-doc--outline">Job Market Paper</a>
+  <a href="/files/JMP_Slides.pdf" class="btn-doc btn-doc--outline">JMP Slides</a>
 </div>
 
 </div>
