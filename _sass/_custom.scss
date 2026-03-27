@@ -1,0 +1,241 @@
+/* ==========================================================================
+   Custom Styles - Dana Golden Academic Website
+   ========================================================================== */
+
+/* Color accent variables */
+$accent-primary: #1a5276;
+$accent-secondary: #2980b9;
+$accent-light: #ebf5fb;
+$accent-warm: #e8f8f5;
+$accent-highlight: #d4efdf;
+
+/* Enhanced page title */
+.page__title {
+  color: $accent-primary;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* Hero intro section on homepage */
+.hero-intro {
+  background: linear-gradient(135deg, $accent-light 0%, $accent-warm 100%);
+  border-left: 4px solid $accent-secondary;
+  padding: 1.5em 1.8em;
+  margin-bottom: 2em;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.05em;
+  line-height: 1.7;
+  color: $dark-gray;
+}
+
+/* Card-style sections */
+.card-section {
+  background: #fff;
+  border: 1px solid $lighter-gray;
+  border-radius: 8px;
+  padding: 1.5em 1.8em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  }
+
+  h2 {
+    color: $accent-primary;
+    border-bottom: 2px solid $accent-secondary;
+    padding-bottom: 0.4em;
+    margin-top: 0;
+    font-size: 1.4em;
+  }
+
+  h3 {
+    color: $darker-gray;
+    margin-top: 0.8em;
+  }
+}
+
+/* JMP highlight card */
+.jmp-card {
+  background: linear-gradient(135deg, $accent-light 0%, #fff 100%);
+  border: 2px solid $accent-secondary;
+  border-radius: 10px;
+  padding: 1.8em 2em;
+  margin-bottom: 2em;
+  box-shadow: 0 3px 12px rgba(26, 82, 118, 0.1);
+
+  h2 {
+    color: $accent-primary;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-top: 0;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3em;
+  }
+
+  h3 {
+    color: $accent-primary;
+    font-size: 1.25em;
+    margin-top: 0;
+    margin-bottom: 0.8em;
+    line-height: 1.3;
+  }
+
+  p {
+    line-height: 1.7;
+  }
+
+  .jmp-links {
+    margin-top: 1.2em;
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+  }
+}
+
+/* Styled buttons / document links */
+.btn-doc {
+  display: inline-block;
+  padding: 0.6em 1.4em;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+
+  &--primary {
+    background: $accent-secondary;
+    color: #fff !important;
+    border: 2px solid $accent-secondary;
+
+    &:hover {
+      background: $accent-primary;
+      border-color: $accent-primary;
+    }
+  }
+
+  &--outline {
+    background: transparent;
+    color: $accent-secondary !important;
+    border: 2px solid $accent-secondary;
+
+    &:hover {
+      background: $accent-secondary;
+      color: #fff !important;
+    }
+  }
+}
+
+/* Research section styling */
+.research-section {
+  margin-bottom: 2em;
+
+  h2 {
+    color: $accent-primary;
+    border-bottom: 2px solid $accent-secondary;
+    padding-bottom: 0.4em;
+    margin-bottom: 1em;
+  }
+}
+
+.research-item {
+  border-left: 3px solid $lighter-gray;
+  padding: 0.8em 1.2em;
+  margin-bottom: 1.2em;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: $accent-secondary;
+  }
+
+  h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    color: $darker-gray;
+    line-height: 1.4;
+  }
+
+  .coauthors {
+    font-style: italic;
+    color: $gray;
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
+  }
+
+  .abstract {
+    font-size: 0.92em;
+    line-height: 1.65;
+    color: $dark-gray;
+  }
+}
+
+/* Fields / tags */
+.field-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1.5em;
+  list-style: none;
+  padding: 0;
+
+  li {
+    background: $accent-light;
+    color: $accent-primary;
+    padding: 0.35em 0.9em;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+    border: 1px solid rgba(26, 82, 118, 0.15);
+  }
+}
+
+/* Quick links row */
+.quick-links {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  margin: 1.5em 0;
+}
+
+/* Section divider */
+.section-divider {
+  border: none;
+  border-top: 2px solid $lighter-gray;
+  margin: 2em 0;
+}
+
+/* Non-academic publication styling */
+.publication-venue {
+  font-size: 0.9em;
+  color: $gray;
+  font-style: italic;
+}
+
+/* Masthead color enhancement */
+.masthead {
+  border-bottom: 2px solid $accent-secondary;
+}
+
+.greedy-nav a {
+  &:hover {
+    color: $accent-secondary;
+  }
+}
+
+.greedy-nav .visible-links a:before {
+  background: $accent-secondary;
+}
+
+/* Author sidebar enhancements */
+.author__bio {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: $dark-gray;
+}
+
+.author__name {
+  color: $accent-primary;
+}

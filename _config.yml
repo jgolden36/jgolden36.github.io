@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dana Golden Academic Website"
+title                    : "Dana Golden"
 title_separator          : "-"
 name                     : &name "Dana Golden"
-description              : &description "Energy Economics PhD student"
+description              : &description "PhD Candidate in Economics | Energy, Industrial Organization, AI"
 url                      : https://jgolden36.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jgolden36/jgolden36.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "Dana Photo.jpg"
   name             : "Dana Annalise Golden"
   pronouns         : "she/her"  
-  bio              : "Energy Economics PhD student"
+  bio              : "PhD Candidate in Economics, Stony Brook University. Research in energy markets, transmission infrastructure, AI, and computational methods."
   location         : "Stony Brook, New York"
   employer         : "Stony Brook University"
   uri              : # URL
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : https://www.youtube.com/channel/UCWuM8JPgT1H-pNhUEiJslaA
+  youtube          : "https://www.youtube.com/channel/UCWuM8JPgT1H-pNhUEiJslaA"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
