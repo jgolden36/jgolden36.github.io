@@ -239,3 +239,240 @@ $accent-highlight: #d4efdf;
 .author__name {
   color: $accent-primary;
 }
+
+/* ==========================================================================
+   CV Page Styles
+   ========================================================================== */
+
+/* CV entry (education, work experience) */
+.cv-entry {
+  border-left: 3px solid $lighter-gray;
+  padding: 0.6em 1.2em;
+  margin-bottom: 1em;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: $accent-secondary;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.cv-entry__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.3em;
+}
+
+.cv-entry__title {
+  font-weight: 700;
+  color: $darker-gray;
+  font-size: 1.05em;
+  margin: 0;
+}
+
+.cv-entry__date {
+  font-size: 0.85em;
+  color: $accent-secondary;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.cv-entry__org {
+  font-style: italic;
+  color: $gray;
+  font-size: 0.93em;
+  margin: 0.15em 0 0.3em;
+}
+
+.cv-entry__detail {
+  font-size: 0.9em;
+  line-height: 1.6;
+  color: $dark-gray;
+  margin: 0.2em 0 0;
+
+  ul {
+    margin: 0.3em 0 0;
+    padding-left: 1.2em;
+  }
+
+  li {
+    margin-bottom: 0.2em;
+  }
+}
+
+/* Conference presentation entry */
+.cv-conference {
+  margin-bottom: 1.2em;
+  padding: 0.6em 1.2em;
+  border-left: 3px solid $lighter-gray;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: $accent-secondary;
+  }
+
+  &__venue {
+    font-weight: 700;
+    color: $accent-primary;
+    font-size: 1em;
+    margin: 0 0 0.3em;
+  }
+
+  &__talk {
+    font-size: 0.9em;
+    color: $dark-gray;
+    margin: 0.15em 0;
+    line-height: 1.5;
+  }
+
+  &__coauthors {
+    font-size: 0.85em;
+    font-style: italic;
+    color: $gray;
+  }
+}
+
+/* Award entry */
+.cv-award {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.3em;
+  padding: 0.5em 0;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &__name {
+    font-weight: 600;
+    color: $darker-gray;
+    font-size: 0.95em;
+    flex: 1;
+  }
+
+  &__amount {
+    font-weight: 700;
+    color: $accent-secondary;
+    font-size: 0.9em;
+    white-space: nowrap;
+  }
+
+  &__detail {
+    width: 100%;
+    font-size: 0.85em;
+    color: $gray;
+    margin-top: 0.1em;
+  }
+}
+
+/* Skills grid */
+.cv-skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2em;
+}
+
+.cv-skills__category {
+  h3 {
+    color: $accent-primary;
+    font-size: 1em;
+    margin: 0 0 0.5em;
+    border-bottom: 1px solid $accent-light;
+    padding-bottom: 0.3em;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    font-size: 0.88em;
+    color: $dark-gray;
+    padding: 0.2em 0;
+    line-height: 1.5;
+  }
+}
+
+/* Teaching table */
+.cv-teaching {
+  width: 100%;
+  border-collapse: collapse;
+
+  th {
+    text-align: left;
+    color: $accent-primary;
+    font-weight: 700;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 0.5em 0.8em;
+    border-bottom: 2px solid $accent-secondary;
+  }
+
+  td {
+    padding: 0.5em 0.8em;
+    font-size: 0.9em;
+    color: $dark-gray;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+  }
+
+  tr:hover td {
+    background: $accent-light;
+  }
+}
+
+/* Service list */
+.cv-service {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 0.4em 0;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    font-size: 0.9em;
+    color: $dark-gray;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    strong {
+      color: $darker-gray;
+    }
+  }
+}
+
+/* Gov publications */
+.cv-pub {
+  border-left: 3px solid $lighter-gray;
+  padding: 0.5em 1.2em;
+  margin-bottom: 0.8em;
+  transition: border-color 0.2s ease;
+
+  &:hover {
+    border-left-color: $accent-secondary;
+  }
+
+  &__title {
+    font-weight: 600;
+    color: $darker-gray;
+    font-size: 0.95em;
+  }
+
+  &__meta {
+    font-size: 0.85em;
+    color: $gray;
+    font-style: italic;
+  }
+}
