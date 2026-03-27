@@ -14,8 +14,8 @@ author_profile: true
 Renewable resources are essential for energy transition, but unequal geographic distribution limits nationwide adoption. Long-distance transmission offers a potential solution by connecting renewables-rich areas to high-demand markets. I examine how expanded transmission capacity impacts investment decisions by generators. I develop and estimate a dynamic model of generator behavior consisting of a short-run optimal dispatch problem incorporating line losses and zonal transmission constraints and a long-run dynamic game for capacity investment. Using data from ISOs in the Eastern Interconnection and ERCOT from 2018-2023, I find that upgrading all interzonal transmission to modern HVDC standards would reduce average wholesale prices by 6%, generating approximately $4 billion in annual welfare gains -- roughly one-third of total congestion costs. Even partial upgrades (50% of lines) achieve over 5% price reductions. Regional effects are heterogeneous: the Northeast experiences the largest price declines while the Midwest sees modest increases. In the long run, adding major transmission projects such as the Grain Belt Express increases solar and wind adoption in the Eastern Interconnection by over 10% by 2050. I use these estimates to evaluate proposed policies including the Inflation Reduction Act and the Bipartisan Infrastructure Law and find that transmission and investment subsidies are complements in encouraging transition.
 
 <div class="jmp-links">
-  <a href="/files/paper1.pdf" class="btn-doc btn-doc--primary">Read the Paper</a>
-  <a href="/files/slides1.pdf" class="btn-doc btn-doc--outline">View Slides</a>
+  <a href="/files/JMP (11).pdf" class="btn-doc btn-doc--primary">Read the Paper</a>
+  <a href="/files/JMP_Slides.pdf" class="btn-doc btn-doc--outline">View Slides</a>
 </div>
 
 </div>
